@@ -10,7 +10,6 @@ wp-config.php
 *.sqlite
 
 # ignore compiled files
-*.com
 *.class
 *.dll
 *.exe
