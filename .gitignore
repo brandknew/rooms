@@ -36,3 +36,4 @@ node_modules/
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+wp-content/themes/rooms.com/scripts/cache
